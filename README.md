@@ -68,10 +68,13 @@ pip install Pillow
 
 
 Example:
-- **Main Interface**  
-![Screenshot-1](assets/Screenshot1.png)
-**Recieved Mail**
-![Screenshot-2](assets/Recieved%20Mail.png)
+- **Set Height and Width**  
+![Screenshot-1](Assets/Screenshot1.png)
+**Choose Image**
+![Screenshot-2](Assets/Screenshot2.png)
+**Save Image**
+![Screenshot-3](Assets/Screenshot3.png)
+
 
 ---
 
